@@ -1,3 +1,3 @@
 # MSAM2CD
 
-"Integrating Segment Anything Model with Instance-Level Change Synthesis for Single-Temporal Unsupervised Change Detection" The manuscript has been submitted to IEEE TGRS. The relevant code is being organized.
+"Metric Calibrated Adaptive SAM2 Network for change detection in High Resolution Remote Sensing Images" The manuscript has been submitted to IEEE IGARSS2025. The relevant code is being organized.
